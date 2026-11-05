@@ -7,7 +7,7 @@ As a Geomatics Engineer with an M.Sc. in Applied Geosciences, my work lives at t
 ---
 
 ## 🌐 Official Portfolio & Services
-> 🚀 **[Explore my interactive web portfolio and services](https://gilthompson.github.io/)**
+🚀 Explore my interactive web portfolio and services
 
 [<img src="./intro_github.png" width="100%">](https://gilthompson.github.io/)
 
@@ -15,4 +15,4 @@ As a Geomatics Engineer with an M.Sc. in Applied Geosciences, my work lives at t
 
 ## 📩 Let's Collaborate
 Do you have a spatial engineering challenge or need to automate your geographic data workflows?
-*   **[Contact me](https://gilthompson.github.io/index.html#contact)** 
+**[Contact me](https://gilthompson.github.io/index.html#contact)** 
