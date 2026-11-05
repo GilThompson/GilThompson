@@ -1,4 +1,4 @@
-# Hi there! I'm Gilberto (Gil Thompson) 👋
+# Hi there! I'm Gilberto 👋
 
 ### 🛰️ Geospatial Developer | Spatial Data Engineer | Solutions Architect
 
@@ -9,7 +9,7 @@ As a Geomatics Engineer with an M.Sc. in Applied Geosciences, my work lives at t
 ## 🌐 Official Portfolio & Services
 > 🚀 **[Explore my interactive web portfolio and services](https://gilthompson.github.io/)**
 
-[<img src="./intro_github.png" width="50%">](https://gilthompson.github.io/)
+[<img src="./intro_github.png" width="100%">](https://gilthompson.github.io/)
 
 ---
 
